@@ -15,4 +15,3 @@
 
 - name: http service state
   service: name=httpd state=started enabled=yes
-© 2018 GitHub, Inc.
